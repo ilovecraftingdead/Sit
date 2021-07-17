@@ -17,7 +17,7 @@ public class Sit
 	public static final String modid = "sit";
 	public static final String name = "Sit";
 	public static final String version = "v1.1";
-	public static final String mcVersion = "1.7.10";
+	public static final String mcVersion = "1.6.4";
 	@Instance(modid)
 	public Sit instance;
 
